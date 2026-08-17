@@ -1,0 +1,11 @@
+feedback_id,source,feedback_text,customer_tier,account_arr
+FB-001,Sales Call,"Prospect lost because we lack SAML SSO and Okta integration for enterprise compliance.",Enterprise,120000
+FB-002,Support Ticket,"Export to CSV fails when filtering more than 10k rows on the analytics tab.",Mid-Market,25000
+FB-003,CSAT Survey,"It would be great if we could change the dashboard background to dark mode.",Free,0
+FB-004,Customer Interview,"We need role-based access control (RBAC) so contractors cannot edit billing settings.",Enterprise,85000
+FB-005,Win/Loss,"Lost deal to competitor because our PDF export takes over 45 seconds to generate.",Enterprise,150000
+FB-006,Support Ticket,"App crashes when clicking the billing settings page on mobile Safari browser.",Mid-Market,15000
+FB-007,Sales Call,"Prospect wants custom branding and logo on client-facing reports.",Mid-Market,30000
+FB-008,NPS Comment,"The PDF report generation hangs forever and times out for large teams.",Enterprise,95000
+FB-009,Feature Request,"Can we get custom accent colors for charts in dashboard exports?",Free,0
+FB-010,Support Ticket,"Users are getting 500 server errors during Okta SSO login attempts.",Enterprise,110000
